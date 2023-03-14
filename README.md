@@ -15,4 +15,4 @@ Actualmente estoy teniendo muchas dificultades para empezar algunos proyectos qu
 Si quieres hablar conmigo para hacer algo juntos, que te resuelva algunas o simplemente charlar puedes contactarme por estos medios:
 
 - Correo: rualvemo@hotmail.com
-- Discord: Rub3n#7590
+- Discord: `Rub3n#7590`
