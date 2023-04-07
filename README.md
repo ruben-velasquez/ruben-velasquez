@@ -2,7 +2,15 @@
 
 ## Acerca de mí 
 
-Soy Rubén Velásquez Mota, un desarrollador web y de videojuegos apasionado por el aprendizaje y la innovación. Tengo 16 años y me gusta programar en JavaScript, C#, Python y HTML/CSS. Tengo experiencia usando Unity Engine, Reactjs, Express y MongoDB. También estoy aprendiendo UI UX design para crear experiencias interactivas y atractivas.
+Programador web full stack MERN (MongoDB, Express, React, Nodejs) adicionalmente Nextjs, Tailwind, Astrojs y Svelte.
+
+Desarrollador de Videojuegos con Unity utilizando C#, tengo capacidad de estructurar el videojuego, programar editores personalizados (experiencia creando mi propio sistema de animación 2D).
+
+Conocimiento en patrones de diseño aplicados a POO (programación orientada a objetos), que pongo en práctica con C# y typescript.
+
+Tengo la capacidad de aprender rápidamente cualquier librería o framework y me gusta adaptarme a las tendencias.
+
+Fundamentos básicos de diseño UI UX para crear interfaces intuitivas y atractivas a los usuarios
 
 ## Contacto
 
