@@ -4,11 +4,11 @@
 
 Programador web full stack MERN (MongoDB, Express, React, Nodejs) adicionalmente Nextjs, Tailwind, Astrojs y Svelte.
 
-Desarrollador de Videojuegos con Unity utilizando C#, tengo capacidad de estructurar el videojuego.
+Desarrollador de Videojuegos con Unity utilizando C#.
 
 Conocimiento en patrones de diseño aplicados a POO (programación orientada a objetos), que pongo en práctica con C# y typescript.
 
-Fundamentos básicos de diseño UI UX para crear interfaces intuitivas y atractivas a los usuarios
+Fundamentos básicos de diseño UI UX para crear interfaces intuitivas y atractivas a los usuarios.
 
 ## Contacto
 
