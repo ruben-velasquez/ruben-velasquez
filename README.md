@@ -1,19 +1,15 @@
-<h1 align="center"> Rubén Velásquez </h1>
+# Rubén Velásquez
 
-## Acerca de mí 
+## About Me
 
-Programador web full stack MERN (MongoDB, Express, React, Nodejs) adicionalmente Nextjs, Tailwind, Astrojs y Svelte.
+I'm a full-stack web developer skilled in MERN (MongoDB, Express, React, Node.js) technologies, with expertise in Next.js, Tailwind, Astro.js, and Svelte. Additionally, I'm a game developer using Unity and C#.
 
-Desarrollador de Videojuegos con Unity utilizando C#.
+I apply design patterns in object-oriented programming with C# and TypeScript. I also have a strong foundation in UI/UX design to create intuitive and engaging user interfaces.
 
-Conocimiento en patrones de diseño aplicados a POO (programación orientada a objetos), que pongo en práctica con C# y typescript.
+## Contact
 
-Fundamentos básicos de diseño UI UX para crear interfaces intuitivas y atractivas a los usuarios.
+If you'd like to collaborate, have questions, or simply chat, you can reach me through these channels:
 
-## Contacto
-
-Si quieres hablar conmigo para hacer algo juntos, que te resuelva algunas o simplemente charlar puedes contactarme por estos medios:
-
-- Correo: rualvemo@hotmail.com
-- Twitter: <https://twitter.com/Rub3nVM>
+- Email: [rualvemo@hotmail.com](mailto:rualvemo@hotmail.com)
+- Twitter: [Rubén's Twitter](https://twitter.com/Rub3nVM)
 - Discord: `Rub3n#7590`
