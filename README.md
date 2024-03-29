@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a full-stack web developer skilled in MERN (MongoDB, Express, React, Node.js) technologies, with expertise in Next.js, Tailwind, Astro.js, and Svelte. Additionally, I'm a game developer using Unity and C#.
+I'm a full-stack web developer with expertise in Next.js, Tailwind, Astro.js, Prismajs and Nestjs. Additionally, I'm a game developer using Unity and C#.
 
 I apply design patterns in object-oriented programming with C# and TypeScript. I also have a strong foundation in UI/UX design to create intuitive and engaging user interfaces.
 
