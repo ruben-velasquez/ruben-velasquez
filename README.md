@@ -11,5 +11,5 @@ I apply design patterns in object-oriented programming with C# and TypeScript. I
 If you'd like to collaborate, have questions, or simply chat, you can reach me through these channels:
 
 - Email: [rualvemo@hotmail.com](mailto:rualvemo@hotmail.com)
-- Twitter: [Rubén's Twitter](https://twitter.com/Rub3nVM)
+- Twitter: [@Rub3nVM](https://twitter.com/Rub3nVM)
 - Discord: `Rub3n#7590`
