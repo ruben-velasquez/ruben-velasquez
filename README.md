@@ -12,4 +12,4 @@ If you'd like to collaborate, have questions, or simply chat, you can reach me t
 
 - Email: [rualvemo@hotmail.com](mailto:rualvemo@hotmail.com)
 - Twitter: [@Rub3nVM](https://twitter.com/Rub3nVM)
-- Discord: `Rub3n#7590`
+- Discord: `rub3n_avm`
